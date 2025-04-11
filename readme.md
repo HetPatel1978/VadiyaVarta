@@ -118,14 +118,6 @@ VadiyaVarta/
 
 ---
 
-## 👨‍💻 Contributors
-
-- **Het Patel** — Developer & AI Engineer  
-- **Ansh**, **Surya** — ML Module Integration  
-- Special thanks to **ISIC** and **Hugging Face** community
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.  

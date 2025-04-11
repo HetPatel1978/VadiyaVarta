@@ -1,0 +1,19 @@
+/Alma AI
+/Last year project/dataset
+/Last year project/model_env
+/Last year project/Model-1/trained_disease_model
+/Last year project/results
+/Last year project/Model-2/biobert_results
+/Last year project/Model-2/logs
+/Last year project/skin
+Model-2/biobert_disease_model
+Model-2/logs
+Model-2/biobert_results
+Model-2/label_encoder.joblib
+Final(BIO_BERT_API)/biobert_disease_model
+Final(BIO_BERT_API)/label_encoder.joblib
+Model-3/biobert_disease_model
+Model-2/__pycache__
+Model-3/checkpoints
+Model-3/tmp_trainer
+Model-3/logs
